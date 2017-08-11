@@ -6,3 +6,8 @@ p {
   font-weight: bold;
   font-family: 'Tangerine', serif;
 }
+body {
+  background-image: url(images/waterfall.jpg);
+  background-repeat: no-repeat;
+  background: cover;
+}

@@ -7,7 +7,7 @@ p {
   font-family: 'Tangerine', serif;
 }
 div {
-  background-image: url(images/waterfalls.jpg);
+  background-image: url("images/waterfalls.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 8rem;

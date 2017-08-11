@@ -6,8 +6,10 @@ p {
   font-weight: bold;
   font-family: 'Tangerine', serif;
 }
-body {
+div {
   background-image: url(images/waterfalls.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  height: 8rem;
+  width: 8rem;
 }

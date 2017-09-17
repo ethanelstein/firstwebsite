@@ -1,15 +1,16 @@
-h1 {
-  color: red;
-}
-p {
-  color: blue;
-  font-weight: bold;
-  font-family: 'Tangerine', serif;
-}
-div {
-  background-image: url("images/waterfalls.jpg");
-  background-repeat: no-repeat;
-  background-size: cover;
-  height: 100%;
-  width: 100%;
-}
+/* Remove the navbar's default rounded borders and increase the bottom margin */
+    .navbar {
+      margin-bottom: 50px;
+      border-radius: 0;
+    }
+
+    /* Remove the jumbotron's default bottom margin */
+     .jumbotron {
+      margin-bottom: 0;
+    }
+
+    /* Add a gray background color and some padding to the footer */
+    footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }

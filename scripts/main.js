@@ -5,6 +5,6 @@ myImage.onclick = function() {
     if(mySrc === 'images/bald_eagle.jpg') {
       myImage.setAttribute ('src','images/gorilla.jpg');
     } else {
-      myImage.setAttribute ('src','images/firefox-icon.png');
+      myImage.setAttribute ('src','images/mantis.jpg');
     }
 }
